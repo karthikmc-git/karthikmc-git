@@ -2,7 +2,9 @@
 
 ###
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/89344509890505588/046C4A9E1AD7127FDA1627BBC51158FB3AA88993/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false width="800" height = "450" alt="GIF description" />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/89344509890505588/046C4A9E1AD7127FDA1627BBC51158FB3AA88993/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500" alt="GIF description" />
+
+
 
 
 <p align="left">Hi there! I'm Karthik MC 🚀, an enthusiastic Software Engineer 🖥️ based in Bengaluru, India 🌟. Currently pursuing a B.Tech in Computer Science and Engineering 📘 at Dayananda Sagar University 🎓</p>
