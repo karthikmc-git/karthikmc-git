@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/89344509890505588/046C4A9E1AD7127FDA1627BBC51158FB3AA88993/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800" height="450" alt="GIF description" />
-</div>
+
+<img src="https://steamuserimages-a.akamaihd.net/ugc/89344509890505588/046C4A9E1AD7127FDA1627BBC51158FB3AA88993/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800" height="450" alt="GIF description" />
+
 
 
 
