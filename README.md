@@ -2,6 +2,9 @@
 
 ###
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fashandimantha2000&psig=AOvVaw2_9kTyE1fo67bWEEihboMa&ust=1731854269353000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiQ04aK4YkDFQAAAAAdAAAAABA5" width="500" alt="GIF description" />
+
+
 <p align="left">Hi there! I'm Karthik MC 🚀, an enthusiastic Software Engineer 🖥️ based in Bengaluru, India 🌟. Currently pursuing a B.Tech in Computer Science and Engineering 📘 at Dayananda Sagar University 🎓</p>
 
 ###
